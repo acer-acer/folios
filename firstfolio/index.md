@@ -1,4 +1,4 @@
-#   Firstfolio
+ Firstfolio
 
 .fx: first
 
@@ -10,9 +10,6 @@ Mayıs 2015
 
 ---
 
-#####Merhaba
-####Merhaba
-###Merhaba
 ##Merhaba
 #Folio!
 #:)

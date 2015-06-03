@@ -221,7 +221,7 @@
           </p> 
         </div>
         <div class="right" id="logo">
-          <a href="http://<%= domain %>" title="http://<%= domain %>"><img src="/_/<%= brand %>.png" /></a>
+          <a href="http://<%= domain %>" title="http://<%= domain %>"><img src="_/<%= brand %>.png" /></a>
         </div>
       </div>
       <ul id="folios">

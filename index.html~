@@ -6,8 +6,8 @@
     <meta content="Folyolar" name="description" />
     <meta content="Hüseyin" name="author" />
     <meta content="yes" name="apple-mobile-web-app-capable" />
-    <link href="_/19.ico" rel="shortcut icon" />
-    <link href="/_/19-icon.png" rel="apple-touch-icon" />
+    <link href="http://www.htaslan.com/_/19.ico" rel="shortcut icon" />
+    <link href="http://www.htaslan.com/_/19-icon.png" rel="apple-touch-icon" />
     <style type="text/css">
       * {
         margin: 0;
